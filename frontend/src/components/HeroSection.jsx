@@ -36,7 +36,7 @@ const HeroSection = () => {
         }}
         
         className="text-xl md:text-1xl lg:text-2xl text-purple-200 max-w-2xl">
-            Hii! My name is  Abhishek Shukla
+           Hello! I'm Abhishek Shukla, a 3rd-year Electrical Engineering student.
         </motion.p >
     </div>
 
