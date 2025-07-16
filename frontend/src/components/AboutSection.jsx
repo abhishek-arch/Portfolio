@@ -142,6 +142,7 @@ className="absolute lg:bottom-[-20rem] md:bottom-[-10rem] bottom-[-20rem] left-0
 <h3 className="text-sm md:text-2xl font-bold text-purple-200 z-50 lg:max-w-[45rem] max-w-[27rem] tracking-wider md:mt-20 sm:mt-[-40rem] mt-[-32rem]">
 
    I’m Abhishek Shukla, currently pursuing Electrical Engineering (3rd year). I’m deeply interested in robotics, web development, and machine learning. I enjoy building hands-on projects that blend hardware with intelligent software solutions.
+   <br />
 
 I also work as a freelancer — feel free to reach out if you'd like to collaborate!
 
