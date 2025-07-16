@@ -1,5 +1,5 @@
 import {useRef, useEffect} from 'react';
-import { gsap } from 'gsap/gsap-core';
+import { gsap } from 'gsap';
 import {ScrollTrigger} from "gsap/ScrollTrigger";
 import { SlShareAlt } from 'react-icons/sl';
 
